@@ -1,5 +1,5 @@
 # har-read
-HAR archive reader in Python, free of dependencies
+[HAR archive](https://en.wikipedia.org/wiki/HAR_(file_format)) reader in Python, free of dependencies
 
 ## Motivation
 Other solutions had too many dependencies. This only requires built-in Python 3 modules like `json`, and can be deployed as a single file.
